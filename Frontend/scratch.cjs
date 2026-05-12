@@ -1,0 +1,1 @@
+const Astronomy = require('astronomy-engine'); try { const sun = Astronomy.SunPosition(new Date()); console.log('Sun Lon:', sun.elon); const moon = Astronomy.EclipticLongitude(Astronomy.Body.Moon, new Date()); console.log('Moon Lon:', moon); } catch (e) { console.log(e); }

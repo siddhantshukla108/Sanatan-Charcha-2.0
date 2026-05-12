@@ -1,0 +1,306 @@
+{
+  "siteTitle": "Satya Sanatan Charcha",
+  "tagline": "Cultural Collaborative Platform",
+  "donate": "Donate",
+  "nav": {
+    "signIn": "Sign In",
+    "logout": "Logout",
+    "dashboard": "DASHBOARD",
+    "home": "Home",
+    "about": "About",
+    "library": "Library",
+    "blog": "Blog",
+    "communication": "Community",
+    "discussion": "Charcha",
+    "request": "Request",
+    "rules": "Niyam"
+  },
+  "home": {
+    "badge": "Satya Sanatan Charcha",
+    "heroTitle": "Discover the Eternal Truth",
+    "heroText": "Join a global community dedicated to preserving and discussing the ancient wisdom of Sanatan Dharma. Explore the library, read daily insights, and find your path.",
+    "btnLibrary": "Explore Library",
+    "btnBlog": "Read Articles",
+    "sectionLibrary": "Treasures of the Library",
+    "viewAll": "View All",
+    "dailyWisdomTitle": "Daily Vedic Wisdom",
+    "dailyWisdomSubtitle": "Daily Insight",
+    "ctaTitle": "Join the Discussion",
+    "ctaText": "Sanatan Dharma is a journey of inquiry. Share your thoughts, ask questions, and explore the truth with our growing community.",
+    "ctaBtn": "Start a Conversation",
+    "loading": "Library content loading...",
+    "panchangBadge": "आज का पञ्चाङ्ग",
+    "panchangTitle": "Today's Hindu Panchang",
+    "panTithi": "Tithi",
+    "panNakshatra": "Nakshatra",
+    "panPaksha": "Paksha",
+    "panVara": "Vara (Day)",
+    "panMonth": "Hindu Month",
+    "panSamvat": "Vikram Samvat",
+    "discussTitle": "Charcha Sabha",
+    "discussText": "Join real-time discussions on Vedas, Philosophy, Festivals, and more. No registration needed.",
+    "discussBtn": "Enter Discussion →",
+    "requestTitle": "Request an Article",
+    "requestText": "Have a topic you want explored? Submit your idea and shape the community's knowledge.",
+    "requestBtn": "Submit Request →",
+    "libraryHighlights": [
+      {
+        "title": "Spiritual Texts",
+        "excerpt": "Explore timeless texts and scriptures from various traditions."
+      },
+      {
+        "title": "Audio Teachings",
+        "excerpt": "Listen to guided meditations, chants, and talks by spiritual leaders."
+      },
+      {
+        "title": "Video Library",
+        "excerpt": "Watch teachings, events, and satsangs from our community."
+      }
+    ],
+    "features": [
+      {
+        "title": "Ancient Wisdom",
+        "content": "Access Vedas and Upanishads digitally."
+      },
+      {
+        "title": "Community",
+        "content": "Discuss and debate with fellow seekers."
+      },
+      {
+        "title": "Daily Insight",
+        "content": "Start your day with a new Shloka."
+      }
+    ]
+  },
+  "about": {
+    "heroBadge": "Established in Prayagraj",
+    "heroTitle": "Our Purpose",
+    "heroSubtitle": "\"Bridging the gap between ancient Vedic tradition and modern inquiry.\"",
+    "missionTitle": "Our Mission",
+    "missionText": "To preserve the ancient wisdom of Sanatan Dharma and make it accessible to the modern world through technology and dialogue.",
+    "visionTitle": "Our Vision",
+    "visionText": "A global community united by the pursuit of Truth (Satya), grounded in Dharma, and inspired by the Vedas.",
+    "valuesTitle": "Core Values",
+    "values": {
+      "satya": "Satya",
+      "satyaDesc": "Truth",
+      "dharma": "Dharma",
+      "dharmaDesc": "Righteousness",
+      "shanti": "Shanti",
+      "shantiDesc": "Peace",
+      "seva": "Seva",
+      "sevaDesc": "Service"
+    },
+    "historyTitle": "Our Journey",
+    "historyText": "Sanatan Charcha began as a small study group in Prayagraj, dedicated to reading the Upanishads. Today, it has grown into a digital platform connecting seekers from across the globe."
+  },
+  "library": {
+    "heroBadge": "Gyana Ganga",
+    "heroTitle": "The Grand Library",
+    "heroText": "Immerse yourself in the timeless ocean of Vedic wisdom. Access scriptures, commentaries, and rare texts preserved for the modern seeker.",
+    "enterBtn": "Enter the Granthalaya",
+    "categoriesTitle": "Sacred Collections",
+    "explore": "Explore",
+    "shelfTitle": "Digital Shelf",
+    "shelfQuote": "\"A room without books is like a body without a soul.\"",
+    "shelfAuthor": "— Cicero (Adapted)",
+    "deskTitle": "Librarian Desk",
+    "welcome": "Welcome",
+    "accessShelf": "Access Shelf",
+    "closeDesk": "Close Desk",
+    "loginMsg": "Login to upload books to the library.",
+    "addTitle": "Add New Scripture",
+    "placeholders": {
+      "title": "Title",
+      "author": "Author",
+      "desc": "Description"
+    },
+    "labels": {
+      "cover": "Cover Image",
+      "pdf": "PDF File"
+    },
+    "uploadBtn": "Upload Book",
+    "readBtn": "Read Now",
+    "deleteBtn": "Delete Book",
+    "empty": "The library shelf is currently empty."
+  },
+  "blog": {
+    "badge": "Spiritual Journal",
+    "title": "Sanatan Blog",
+    "subtitle": "Insights, reflections, and teachings from the path of Dharma.",
+    "adminTitle": "Admin Access",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "loggedIn": "Logged in as",
+    "updatesTitle": "Latest Updates",
+    "refreshText": "Refresh the feed to see newly published articles.",
+    "refreshBtn": "Refresh Feed",
+    "publishTitle": "Publish New Article",
+    "editTitle": "Edit Article",
+    "cancel": "Cancel Edit",
+    "placeholders": {
+      "title": "Article Title",
+      "excerpt": "Short Summary / Excerpt",
+      "content": "Main Content...",
+      "media": "Featured Media"
+    },
+    "buttons": {
+      "publish": "Publish Now",
+      "update": "Update Article",
+      "readFull": "Read Full Article",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "empty": "No articles found.",
+    "emptySub": "The wisdom is yet to be written."
+  },
+  "communication": {
+    "title": "Samvad (Communication)",
+    "subtitle": "Have a question about the scriptures? Want to contribute? Send us a message and join the discussion.",
+    "formTitle": "Send us a Message",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message"
+    },
+    "placeholders": {
+      "name": "Your Name",
+      "email": "you@example.com",
+      "message": "Your thoughts..."
+    },
+    "sendBtn": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully! Pranam.",
+    "error": "Failed to send message. Try again.",
+    "guidelinesTitle": "Community Guidelines",
+    "guidelinesText": "We believe in Satyam (Truth) and Priyam (Kindness). Please ensure your messages are respectful.",
+    "joinTitle": "Join the Discussion",
+    "joinText": "Our admins review every message. Selected questions will be answered in our Weekly Blog."
+  },
+  "rules": {
+    "badge": "धार्मिक आचार संहिता",
+    "heroTitle": "Community",
+    "heroTitleHighlight": "Niyam",
+    "heroText": "Our platform is governed by the timeless principles of Yamas & Niyamas from Maharishi Patanjali's Yoga Sutras. These are the foundation of Dharmic living.",
+    "codeTitle": "Dharmic Code of Conduct",
+    "codeSubtitle": "Based on Patanjali's Yoga Sutras — the universal ethics for seekers",
+    "topicsTitle": "Welcome Topics",
+    "topicsSubtitle": "Content aligned with these areas of Hindu culture is encouraged",
+    "moderationTitle": "⚖️ Moderation Policy",
+    "mod1": "All content is reviewed by the admin team before final publication.",
+    "mod2": "Violations of the Dharmic Code may result in content removal.",
+    "mod3": "Constructive criticism and respectful debate are always welcome.",
+    "mod4": "Admin reserves the right to edit or decline submissions that don't align with our community values.",
+    "ctaTitle": "Ready to Contribute?",
+    "ctaText": "Have a topic you'd like us to cover? Submit an article request and help shape the community's knowledge base.",
+    "ctaBtn": "✍️ Submit Article Request",
+    "ctaBtn2": "💬 Join Discussion"
+  },
+  "request": {
+    "badge": "सुझाव दें",
+    "heroTitle": "Request an Article",
+    "heroText": "Have a topic you want us to explore? Submit your idea and help shape the knowledge shared on Sanatan Charcha.",
+    "formTitle": "✍️ Submit Your Request",
+    "labelName": "Your Name",
+    "labelEmail": "Your Email",
+    "labelTopic": "Article Topic",
+    "labelCategory": "Category",
+    "labelDesc": "Why This Topic? (Optional)",
+    "phName": "e.g., Arjun Sharma",
+    "phEmail": "you@example.com",
+    "phTopic": "e.g., The significance of Navratri in different regions",
+    "phDesc": "Tell us why this topic is important...",
+    "submitBtn": "🙏 Submit Request",
+    "submitting": "Submitting...",
+    "success": "✅ Request submitted! Our team will review it.",
+    "error": "❌ Failed to submit. Please try again.",
+    "wishlistTitle": "📋 Community Wishlist",
+    "wishlistDesc": "Topics approved by the community — articles on these are coming soon!",
+    "refresh": "Refresh",
+    "emptyWishlist": "No approved requests yet. Be the first to suggest!"
+  },
+  "discussion": {
+    "joinTitle": "Charcha Sabha",
+    "joinSubtitle": "Enter a display name to join the discussion. No registration needed — just pure Dharmic discourse.",
+    "namePlaceholder": "Your Display Name",
+    "joinBtn": "🙏 Enter Sabha",
+    "joinNote": "By joining, you agree to follow our Dharmic Code of Conduct.",
+    "serverName": "Charcha Sabha",
+    "serverTagline": "Cultural Discussion Hub",
+    "channelsLabel": "Channels",
+    "online": "Online",
+    "loading": "Loading messages...",
+    "emptyTitle": "Welcome to",
+    "emptyText": "This is the beginning of this channel. Start the conversation!",
+    "inputPlaceholder": "Type your message..."
+  },
+  "admin": {
+    "portalTitle": "Admin Portal",
+    "restricted": "Restricted Access",
+    "enterBtn": "Enter Dashboard",
+    "headerTitle": "Sanatan Command Center",
+    "headerSub": "Manage Content & Community",
+    "logout": "Logout",
+    "tabs": {
+      "inbox": "Inbox Messages",
+      "blog": "Write Blog Post",
+      "library": "Upload Books",
+      "requests": "Article Requests"
+    },
+    "inboxTitle": "Community Messages",
+    "noMessages": "No messages yet.",
+    "blogTitle": "Publish Article",
+    "bookTitle": "Add Book to Library"
+  },
+  "footer": {
+    "aboutText": "A cultural collaborative platform preserving Hindu wisdom and fostering community dialogue for all.",
+    "linksTitle": "Quick Links",
+    "resourcesTitle": "Platform",
+    "connectTitle": "Connect",
+    "newsletter": "Join 10,000+ others on our newsletter.",
+    "copyright": "Satya Sanatan Charcha. All rights reserved.",
+    "links": {
+      "donate": "Donate (Dakshina)",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Seva",
+      "contact": "Contact Us"
+    }
+  },
+  "common": {
+    "email": "Email",
+    "password": "Password",
+    "hindi": "Hindi",
+    "sanskrit": "Sanskrit",
+    "english": "English",
+    "tamil": "Tamil",
+    "telugu": "Telugu"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "signupTitle": "Create an Account",
+    "loginSub": "Sign in to request articles and participate in Charcha",
+    "signupSub": "Join our cultural community",
+    "displayName": "Display Name",
+    "emailLabel": "Email Address",
+    "passwordLabel": "Password",
+    "signInBtn": "Sign In",
+    "signUpBtn": "Sign Up",
+    "processing": "Processing...",
+    "or": "OR",
+    "googleFail": "Google Sign In failed",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "adminNote": "Admins: Log in above with your official credentials to access the Dashboard."
+  },
+  "adminDashboard": {
+    "title": "Admin Command Center",
+    "authorizedAs": "Authorized as",
+    "overview": "Overview",
+    "managePosts": "Manage Posts",
+    "manageLibrary": "Manage Library",
+    "publishBlog": "Publish Blog",
+    "addBook": "Add Book",
+    "confirmDelete": "Delete this book permanently?",
+    "deleteMessageTooltip": "Delete Message"
+  }
+}
